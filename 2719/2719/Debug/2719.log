@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/5/4 22:25:58。
+     1>项目“C:\Users\Z\Desktop\Solutions-for-OJ-of-Peking-University\2719\2719\2719.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 2719.cpp
+         2719.cpp
+     1>c:\users\z\desktop\solutions-for-oj-of-peking-university\2719\2719\2719.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         G:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Z\Desktop\Solutions-for-OJ-of-Peking-University\2719\Debug\2719.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Z\Desktop\Solutions-for-OJ-of-Peking-University\2719\Debug\2719.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Z\Desktop\Solutions-for-OJ-of-Peking-University\2719\Debug\2719.lib" /MACHINE:X86 Debug\2719.obj
+         2719.vcxproj -> C:\Users\Z\Desktop\Solutions-for-OJ-of-Peking-University\2719\Debug\2719.exe
+     1>已完成生成项目“C:\Users\Z\Desktop\Solutions-for-OJ-of-Peking-University\2719\2719\2719.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
