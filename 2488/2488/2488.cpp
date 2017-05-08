@@ -20,12 +20,25 @@ int jStep[ 8 ] = { -2, -2, -1, -1, 1, 1, 2, 2 };
 
 bool map[ 26 + 1 ][ 26 + 1 ] = { 0 };
 
+int row;
+int col;
+
+bool isInMap ( int x, int y ){
+
+	if ( ( x >= 1 && x <= row ) && ( y >= 1 && y <= col ) ){
+	
+		return true;
+	
+	}
+
+	return false;
+
+}
+
 int main ( ){
 
 	int nCase;
 	int k;
-	int row;
-	int col;
 	int i;
 	int j;
 
